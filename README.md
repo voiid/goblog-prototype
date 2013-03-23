@@ -1,4 +1,5 @@
 goblog-prototype
 ================
 
-Blogging engine built with Go.  It's a prototype, meant to be shit.
+Course project to build a blogging engine in Go.
+

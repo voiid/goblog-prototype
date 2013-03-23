@@ -20,3 +20,13 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+# Editor specific files
+*.swp
+*~
+~*
+*.sublime*
+
+# Databases
+*.db
+
